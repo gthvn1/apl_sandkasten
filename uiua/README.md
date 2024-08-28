@@ -1,0 +1,1 @@
+- Try to use (FFI)[https://www.uiua.org/docs/&ffi]
